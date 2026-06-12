@@ -6,6 +6,9 @@ Built with Python, LangChain, ChromaDB, and the Anthropic API (Claude).
 
 ---
 
+<img width="2159" height="1635" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/ee4e39f3-172a-4ecc-8a56-63dd9e2d962c" />
+
+
 ## What It Does
 
 FinSight allows you to upload SEC filings (10-K annual reports) and ask specific financial questions about them. Instead of manually searching through hundreds of pages, you can ask questions like:
